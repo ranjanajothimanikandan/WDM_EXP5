@@ -7,7 +7,7 @@ The Boolean model in Information Retrieval (IR) is a fundamental model used for 
   
 ### Procedure:
 1. ***Initialize the BooleanRetrieval class:*** The BooleanRetrieval class is defined to manage the indexing and searching of documents.
-2. ***Constructor and Index Initialization:*** The class constructor initializes an empty index to store the inverted index mapping terms to documents.
+2. ***Constructor and Index Initialization:*** The class constructor initializes an empty index to store the inverted index mapping terms to documents. 
 3. ***Indexing Documents:***
     <p> a) The index_document method is responsible for indexing documents.
     <p> b) Tokenize the text content of documents, converting them into lowercase terms.
